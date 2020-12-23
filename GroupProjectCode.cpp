@@ -1,3 +1,6 @@
+// github push check 
+
+
 //function which will return an integer value of the heart rate, this will be called every few milli second  
 int heartSensor()
 {
@@ -6,6 +9,7 @@ int heartSensor()
 //foxgen sensor function, retuen integer of oxgyen value
 int oxygenSensor()
 {
+
 }
 
 // function to project gps system to screen
